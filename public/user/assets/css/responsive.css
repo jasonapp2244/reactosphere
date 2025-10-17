@@ -1,0 +1,203 @@
+@media (max-width: 1280px) {
+    .our_blogs {
+        width: 162px;
+        left: -57px;
+        top: -42px;
+    }
+    .heading45px {
+        margin-top: 67px;
+    }
+    .sticker_img {
+        width: 200px;
+    }
+}
+
+@media(max-width:1199px) {
+    .sticker_img {
+        top: -92px;
+        left: -68px;
+    }
+    .amazing_img {
+        right: -98px;
+    }
+}
+
+@media (max-width:1024px) {
+    .amazing_img {
+        width: 200px;
+        right: -18px;
+        top: -68px;
+    }
+    .heading40px {
+        margin-top: 28px;
+    }
+    .our_blogs {
+        left: 0;
+    }
+    .hero_section h1 {
+        margin-top: 25px;
+    }
+    .sticker_img {
+        left: -15px;
+        width: 174px;
+    }
+}
+
+@media (max-width:991px) {
+    .hero_section h1 {
+        font-size: 55px;
+        margin: 0;
+        padding: 0;
+    }
+    .heading55px {
+        font-size: 54px;
+    }
+    .amazingservices h2 {
+        font-size: 55px;
+    }
+    section.our_blogssection_tow {
+        text-align: center;
+    }
+    .thebirth {
+        padding: 0;
+    }
+    .heading40px {
+        margin: 0;
+    }
+    section.our_blogssection_tow {
+        padding-bottom: 50px;
+    }
+    .blogs_section {
+        padding-top: 0 !important;
+    }
+    .phase_box h2 {
+        font-size: 30px !important;
+    }
+    .phase_box h3 {
+        font-size: 22px !important;
+    }
+    .join_the_reacto_movement br {
+        display: none;
+    }
+    .join_the_reacto_img {
+        left: -36px;
+        top: -66px;
+        width: 148px;
+    }
+    .reactin_real_section {
+        padding-top: 50px;
+    }
+    .the_road_ahead {
+        padding-top: 50px;
+    }
+    .reacto_Presale_section {
+        padding: 50px 0;
+    }
+    .join_the_reacto_movement {
+        padding: 50px 0;
+    }
+    .amazingservices {
+        padding: 0 0 !important;
+    }
+    .landing_btn_wrapper {
+        justify-content: center;
+    }
+}
+
+@media(max-width:767px) {
+    section.our_blogssection_tow {
+        padding-top: 130px;
+    }
+    .hero_section {
+        padding-top: 0;
+    }
+    .hero_section h1 {
+        font-size: 49px;
+        line-height: 56px;
+    }
+    .hero_section {
+        padding-top: 59px;
+    }
+    section {
+        overflow: hidden;
+    }
+    br {
+        display: none;
+    }
+    .join_the_reacto_img {
+        left: -19px;
+        top: -40px !important;
+        width: 130px;
+    }
+    .reactin_real_section br {
+        display: none;
+    }
+}
+
+@media (max-width:480px) {
+    .hero_section h1 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .heading55px {
+        font-size: 36px;
+    }
+    .amazingservices h2 {
+        font-size: 40px;
+    }
+    section.our_blogssection_tow h2 {
+        font-size: 32px;
+    }
+    .heading57px {
+        line-height: 48px;
+        font-size: 46px;
+    }
+    .heading48px {
+        font-size: 39px;
+    }
+    /* section.get_the_full_experience{
+    margin-bottom: 20px;
+} */
+    .thebirth {
+        padding: 50px 0;
+    }
+    .blogs_section {
+        padding-bottom: 50px 0 !important;
+    }
+}
+
+@media (max-width:414px) {
+    .hero_section h1 {
+        font-size: 36px;
+    }
+    .heading55px {
+        font-size: 29px;
+    }
+}
+
+@media(max-width:414px) {
+    .register_btn {
+        padding: 7px 12px;
+        border-radius: 7px;
+    }
+    .login_bnt {
+        padding: 5px 12px;
+        border-radius: 7px;
+    }
+    .qr_image {
+        width: 61px;
+    }
+    section.our_blogssection_tow h2 {
+        font-size: 28px;
+    }
+    .hero_section h1 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .sphere_section {
+        padding: 50px 0;
+    }
+    .amazingservices h2 {
+        font-size: 36px;
+    }
+}
